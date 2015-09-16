@@ -1,0 +1,10 @@
+  536  git checkout master
+  537  git merge Testing_New_Files 
+  538  ls
+  539  git pull
+  540  git push
+  541  git config --global core.editor "vi"
+  542  git checkout Testing_New_Files 
+  543  ls
+  544  git pull
+  545  history | tail > history.txt
